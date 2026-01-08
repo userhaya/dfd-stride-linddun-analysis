@@ -1,0 +1,1572 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "LINDDUN",
+    "owner": "Group12",
+    "description": "This system automatically generates and\ndelivers documents, allowing organizations to outsource the generation and\ndelivery of documents such as invoices\nand pay slips.\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "shatha alamri"
+      },
+      {
+        "name": "Tala Alnabati"
+      },
+      {
+        "name": "Asayel Alghamdi"
+      },
+      {
+        "name": "Haya Al Ibrahim"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New LINDDUN diagram",
+        "diagramType": "LINDDUN",
+        "placeholder": "New LINDDUN diagram description",
+        "thumbnail": "./public/content/images/thumbnail.linddun.jpg",
+        "version": "2.2.0",
+        "cells": [
+          {
+            "position": {
+              "x": 222.99999999999955,
+              "y": 15
+            },
+            "size": {
+              "width": 200,
+              "height": 150
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "System Trust Boundary"
+              }
+            },
+            "zIndex": -1,
+            "id": "7a302636-6e10-45df-b5fb-e6b23d6ba570",
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "System Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 22.999999999999545,
+              "y": 204.99999999999818
+            },
+            "size": {
+              "width": 200,
+              "height": 140
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "System Trust Boundary"
+              }
+            },
+            "zIndex": -1,
+            "id": "51d00079-7f92-4957-826c-c8520ec5f88f",
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "System Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 22.99999999999899,
+              "y": 374.9999999999985
+            },
+            "size": {
+              "width": 200,
+              "height": 300
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "System Trust Boundary"
+              }
+            },
+            "zIndex": -1,
+            "id": "73aebd12-cbc0-4941-a365-286c60e4d14d",
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "System Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 785,
+              "y": -25.000000000000128
+            },
+            "size": {
+              "width": 200,
+              "height": 250
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "System Trust Boundary"
+              }
+            },
+            "zIndex": -1,
+            "id": "2656b733-ff71-4ab0-8c7a-738ae4cea0ce",
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "System Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 587,
+              "y": 289.9999999999982
+            },
+            "size": {
+              "width": 170,
+              "height": 110
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "System Trust Boundary"
+              }
+            },
+            "zIndex": -1,
+            "id": "ac0b829f-0cad-43ee-912a-50ffed0a30d7",
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "System Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 813.2499999999995,
+              "y": 520
+            },
+            "size": {
+              "width": 200,
+              "height": 150
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "System Trust Boundary"
+              }
+            },
+            "zIndex": -1,
+            "id": "bdfc841a-95cc-4040-9614-3fbd5a8be236",
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "System Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 222.99999999999955,
+              "y": 950
+            },
+            "size": {
+              "width": 480,
+              "height": 390
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "System Trust Boundary"
+              }
+            },
+            "id": "a719cf3b-cf98-4350-9640-ee831b30611e",
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "System Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "zIndex": -1
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF9",
+              "description": "Delivers the requested document from the PDS to the user.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [
+                {
+                  "id": "35f01eb6-3bd6-4150-abcd-8c1a336341c4",
+                  "title": "Detectable document delivery to POS user",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Detectability",
+                  "description": "When a document is delivered from the PDS process to the user, the delivery event may be observable through network traffic, access logs, or monitoring systems. This allows an observer to detect that a specific document delivery or retrieval event has occurred.\n",
+                  "mitigation": "Use encrypted communication (HTTPS/TLS).\n\n Avoid detailed access logging where not required.\n\n Use anonymized or pseudonymous delivery identifiers.\n\n Limit visibility of delivery events to authorized components.",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 13,
+                  "score": "4"
+                }
+              ]
+            },
+            "id": "ab08341a-5d1f-402b-96e6-5939938cc8aa",
+            "labels": [
+              "DF9"
+            ],
+            "source": {
+              "cell": "b9551fe1-d168-4eda-be4b-5170d82ac0e1"
+            },
+            "target": {
+              "cell": "1264066e-7362-446c-b793-26b5b714021b"
+            },
+            "vertices": [
+              {
+                "x": 820,
+                "y": 348
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF 23",
+              "description": "Returns stored user information and preferences needed by the PDS process.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [
+                {
+                  "id": "bce824d0-ec19-4bf8-9b40-11bc3d940f3d",
+                  "title": "Linkability of user preferences through repeated access",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Stored user information and preferences retrieved from the Personal Data Store may be accessed repeatedly by the PDS process. Over time, these accesses can be linked together, allowing an attacker or insider to infer user behavior, habits, or preferences even without directly identifying the user.",
+                  "mitigation": "Minimize stored user preference data.\n\n Aggregate or generalize preference information.\n\n Limit access to the Personal Data Store.\n\n Apply strict access control and auditing.\n\n Avoid long-term retention of detailed preference data.",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 12,
+                  "score": "5"
+                }
+              ]
+            },
+            "id": "2992133e-b245-4213-ab88-5f272760a6b0",
+            "labels": [
+              "DF 23"
+            ],
+            "source": {
+              "cell": "c757a413-a243-401f-82e0-5ab9a8a19313"
+            },
+            "target": {
+              "cell": "2a01d284-9076-4a3b-b001-35b3695fa65a"
+            },
+            "vertices": [
+              {
+                "x": 885,
+                "y": 110
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF2",
+              "description": "Transaction parties may deny sending or receiving financial data.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [
+                {
+                  "id": "b941214d-3a0d-4266-9bff-fea7f0878cb3",
+                  "title": "Lack of non-repudiation in delivery–banking transactions",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Non-repudiation",
+                  "description": "Financial or delivery-related transaction data sent from the Delivery process to the Banking service may lack strong non-repudiation guarantees. In the absence of cryptographic proof, either party may later deny having sent, received, or processed a specific transaction. This can lead to privacy risks, disputes, and accountability issues, especially when financial records are involved.\n",
+                  "mitigation": "Apply digital signatures to transaction messages.\n\nMaintain tamper-evident and secure audit logs.\n\nUse trusted timestamps for transaction records.\n\nRestrict access to financial transaction logs.\n\nDefine clear accountability and verification mechanisms",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 15,
+                  "score": "5"
+                }
+              ]
+            },
+            "id": "56b0c2da-7a2a-4ba0-930a-b0cd1dcdd426",
+            "labels": [
+              "DF2"
+            ],
+            "source": {
+              "cell": "5526589a-86ba-4a57-a581-4b4fde45b10a"
+            },
+            "target": {
+              "cell": "0d3b6c13-9836-4947-a8f8-60da5922e0aa"
+            },
+            "vertices": [
+              {
+                "x": 740,
+                "y": 570
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF3",
+              "description": "Returns the transaction or processing status from the bank to the Delivery process.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [
+                {
+                  "id": "ec0462b0-74b9-4976-bfcd-c56094b24a67",
+                  "title": "Profiling of customers through payment activity",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Financial transaction activity from banking can be\nlinked with delivery behavior.\nAn adversary may infer patterns about customers or\norganizations based on repeated transfers.",
+                  "mitigation": "Encrypt financial communication (TLS/HTTPS) to protect data in transit. \n\nMinimize shared financial metadata (avoid sharing unnecessary details like exact amounts or timestamps). \n\nAvoid storing unnecessary logs to reduce the chance of linking transactions to customers.",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 11,
+                  "score": "5"
+                }
+              ]
+            },
+            "id": "88776c8a-56ae-4e51-bc96-6745f0a6cf4c",
+            "labels": [
+              "DF3"
+            ],
+            "source": {
+              "cell": "f8e3d577-a669-4fe3-b7c5-1c44e4a910d3"
+            },
+            "target": {
+              "cell": "0495e03a-1443-4940-b8b1-faf46726ea3b"
+            },
+            "vertices": [
+              {
+                "x": 180,
+                "y": 60
+              },
+              {
+                "x": 230,
+                "y": 70
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF13",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "c889a837-3180-4519-96ed-c0961ed7dd7a",
+            "source": {
+              "cell": "ee9fafa4-ca8f-4edf-8666-d595b30b7d4b"
+            },
+            "target": {
+              "cell": "3f9b40d9-e89a-45c4-83b8-09fbddbf799b"
+            },
+            "vertices": [
+              {
+                "x": 335,
+                "y": 1110
+              },
+              {
+                "x": 330,
+                "y": 1100
+              }
+            ],
+            "labels": [
+              "DF13"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF2",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "be1b6c52-c786-4bd0-ac33-fe61c0648e89",
+            "source": {
+              "cell": "3f9b40d9-e89a-45c4-83b8-09fbddbf799b"
+            },
+            "target": {
+              "cell": "0749e681-d125-4e1d-a7b8-8496cb7b16ed"
+            },
+            "vertices": [
+              {
+                "x": 190,
+                "y": 1216.5
+              }
+            ],
+            "labels": [
+              "DF2"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF23",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "ed65ab28-6c81-4a9a-8ef3-2a7b78989e7a",
+            "source": {
+              "cell": "f79fcfdb-7651-438b-9456-7a80c5ba036b"
+            },
+            "target": {
+              "cell": "ffa0a716-e76e-45e1-a6e4-9e4db909007f"
+            },
+            "labels": [
+              "DF23"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF9",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "dc52dffb-899d-4a83-8b5a-455d716cb834",
+            "source": {
+              "cell": "ffa0a716-e76e-45e1-a6e4-9e4db909007f"
+            },
+            "target": {
+              "cell": "f47c119d-f3bf-4576-890f-fb4a16ed309e"
+            },
+            "labels": [
+              "DF9"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF26",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "e964270a-ea98-4503-ab35-b62f1bde0dad",
+            "source": {
+              "cell": "fb7def26-d9f9-4269-bb32-79e169f09ac8"
+            },
+            "target": {
+              "cell": "ee9fafa4-ca8f-4edf-8666-d595b30b7d4b"
+            },
+            "vertices": [
+              {
+                "x": 630,
+                "y": 850
+              },
+              {
+                "x": 500,
+                "y": 850
+              }
+            ],
+            "labels": [
+              "DF26"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF3",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "ad552cd1-9d77-42a2-ae22-3761168c3c67",
+            "source": {
+              "cell": "0749e681-d125-4e1d-a7b8-8496cb7b16ed"
+            },
+            "target": {
+              "cell": "3f9b40d9-e89a-45c4-83b8-09fbddbf799b"
+            },
+            "labels": [
+              "DF3"
+            ]
+          },
+          {
+            "position": {
+              "x": 22.999999999999545,
+              "y": 15
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "E2 Banking\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "zIndex": 27,
+            "id": "f8e3d577-a669-4fe3-b7c5-1c44e4a910d3",
+            "data": {
+              "type": "tm.Actor",
+              "name": "E2 Banking\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 264.75,
+              "y": 45
+            },
+            "size": {
+              "width": 90,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "P2 Delivery\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "zIndex": 28,
+            "id": "0495e03a-1443-4940-b8b1-faf46726ea3b",
+            "data": {
+              "type": "tm.Process",
+              "name": "P2 Delivery\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 306,
+              "y": 249.99999999999818
+            },
+            "size": {
+              "width": 170,
+              "height": 50
+            },
+            "attrs": {
+              "text": {
+                "text": "E5 Customer Organization\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "zIndex": 31,
+            "id": "73a29dc9-7404-407f-a657-a76ecca7a9d7",
+            "data": {
+              "type": "tm.Actor",
+              "name": "E5 Customer Organization\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 72.99999999999955,
+              "y": 222.9999999999991
+            },
+            "size": {
+              "width": 100,
+              "height": 130
+            },
+            "attrs": {
+              "text": {
+                "text": "P1 Scheduler\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "zIndex": 35,
+            "id": "a72fe114-a981-4f52-9227-e4bc437de6c1",
+            "data": {
+              "type": "tm.Process",
+              "name": "P1 Scheduler\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 36,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF26",
+              "description": "Provides scheduling instructions that control when document delivery should occur.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [
+                {
+                  "id": "bd69b668-0634-40c5-8af7-ba31af3a3d49",
+                  "title": "Scheduling patterns may reveal organizational behavior",
+                  "status": "Open",
+                  "severity": "Low",
+                  "type": "Linkability",
+                  "description": "Scheduling data from the customer organization may reveal internal patterns such as business volume, frequency, or peak periods.\n",
+                  "mitigation": "Aggregate scheduling information to avoid revealing business patterns.\n\nLimit logging of exact scheduling times.\n\nSeparate operational logs from business-sensitive data.\n",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 7,
+                  "score": "2"
+                }
+              ]
+            },
+            "id": "ad909621-9cc8-47a8-908f-e3f0281ab785",
+            "labels": [
+              "DF26"
+            ],
+            "source": {
+              "cell": "73a29dc9-7404-407f-a657-a76ecca7a9d7"
+            },
+            "target": {
+              "cell": "a72fe114-a981-4f52-9227-e4bc437de6c1"
+            },
+            "vertices": [
+              {
+                "x": 260,
+                "y": 294.5
+              }
+            ]
+          },
+          {
+            "position": {
+              "x": 77.99999999999955,
+              "y": 584.9999999999985
+            },
+            "size": {
+              "width": 90,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "P2 Delivery\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "zIndex": 37,
+            "id": "129ebd81-a6cb-4fff-a52b-7c9d56c1ad43",
+            "data": {
+              "type": "tm.Process",
+              "name": "P2 Delivery\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 77.99999999999955,
+              "y": 394.9999999999985
+            },
+            "size": {
+              "width": 100,
+              "height": 130
+            },
+            "attrs": {
+              "text": {
+                "text": "P1 Scheduler\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "zIndex": 39,
+            "id": "56e08cd2-2df1-4c53-b875-181c154e93f2",
+            "data": {
+              "type": "tm.Process",
+              "name": "P1 Scheduler\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "red",
+                "strokeWidth": 2.5,
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 40,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "DF13",
+              "description": "Sends delivery scheduling commands and execution details to the Delivery process.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": [
+                {
+                  "id": "3c502fad-40d9-4f83-bdf9-eda6b31f6b8f",
+                  "title": "Inference from scheduling triggers",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Detectability",
+                  "description": "Triggers sent from the scheduler to the delivery process may be observed, revealing load patterns and timing behaviors.\n",
+                  "mitigation": "Encrypt scheduling triggers and metadata.\n\nRemove unnecessary timing details from logs.\n\nRestrict access to scheduler and delivery process logs.",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 8,
+                  "score": "4"
+                }
+              ]
+            },
+            "id": "396fe4f4-47e2-413a-b4f3-23c0ba3c8ea0",
+            "labels": [
+              "DF13"
+            ],
+            "source": {
+              "cell": "56e08cd2-2df1-4c53-b875-181c154e93f2"
+            },
+            "target": {
+              "cell": "129ebd81-a6cb-4fff-a52b-7c9d56c1ad43"
+            },
+            "vertices": [
+              {
+                "x": 133,
+                "y": 550
+              }
+            ]
+          },
+          {
+            "position": {
+              "x": 825,
+              "y": 15
+            },
+            "size": {
+              "width": 120,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "DS3 User Data"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "zIndex": 41,
+            "id": "c757a413-a243-401f-82e0-5ab9a8a19313",
+            "data": {
+              "type": "tm.Store",
+              "name": "DS3 User Data",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 855,
+              "y": 145
+            },
+            "size": {
+              "width": 60,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "P3 PDS"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "zIndex": 42,
+            "id": "2a01d284-9076-4a3b-b001-35b3695fa65a",
+            "data": {
+              "type": "tm.Process",
+              "name": "P3 PDS",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 642,
+              "y": 314.9999999999985
+            },
+            "size": {
+              "width": 60,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "P3 PDS"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "zIndex": 43,
+            "id": "b9551fe1-d168-4eda-be4b-5170d82ac0e1",
+            "data": {
+              "type": "tm.Process",
+              "name": "P3 PDS",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 855,
+              "y": 315
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "E4 PDS User"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "zIndex": 44,
+            "id": "1264066e-7362-446c-b793-26b5b714021b",
+            "data": {
+              "type": "tm.Actor",
+              "name": "E4 PDS User",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 587,
+              "y": 520
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "E2 Banking\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "zIndex": 45,
+            "id": "0d3b6c13-9836-4947-a8f8-60da5922e0aa",
+            "data": {
+              "type": "tm.Actor",
+              "name": "E2 Banking\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 855,
+              "y": 550
+            },
+            "size": {
+              "width": 90,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "P2 Delivery\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "zIndex": 46,
+            "id": "5526589a-86ba-4a57-a581-4b4fde45b10a",
+            "data": {
+              "type": "tm.Process",
+              "name": "P2 Delivery\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 280,
+              "y": 950
+            },
+            "size": {
+              "width": 100,
+              "height": 130
+            },
+            "attrs": {
+              "text": {
+                "text": "P1 Scheduler\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "ee9fafa4-ca8f-4edf-8666-d595b30b7d4b",
+            "data": {
+              "type": "tm.Process",
+              "name": "P1 Scheduler\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            },
+            "zIndex": 47
+          },
+          {
+            "position": {
+              "x": 277.99999999999955,
+              "y": 1166.9999999999986
+            },
+            "size": {
+              "width": 90,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "P2 Delivery\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "3f9b40d9-e89a-45c4-83b8-09fbddbf799b",
+            "data": {
+              "type": "tm.Process",
+              "name": "P2 Delivery\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            },
+            "zIndex": 48
+          },
+          {
+            "position": {
+              "x": 757,
+              "y": 1010
+            },
+            "size": {
+              "width": 170,
+              "height": 50
+            },
+            "attrs": {
+              "text": {
+                "text": "E5 Customer Organization\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "fb7def26-d9f9-4269-bb32-79e169f09ac8",
+            "data": {
+              "type": "tm.Actor",
+              "name": "E5 Customer Organization\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 49
+          },
+          {
+            "position": {
+              "x": 22.999999999999545,
+              "y": 1106.9999999999986
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "E2 Banking\n"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "0749e681-d125-4e1d-a7b8-8496cb7b16ed",
+            "data": {
+              "type": "tm.Actor",
+              "name": "E2 Banking\n",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 50,
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
+            }
+          },
+          {
+            "position": {
+              "x": 522,
+              "y": 1046.9999999999986
+            },
+            "size": {
+              "width": 120,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "DS3 User Data"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "f79fcfdb-7651-438b-9456-7a80c5ba036b",
+            "data": {
+              "type": "tm.Store",
+              "name": "DS3 User Data",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            },
+            "zIndex": 51
+          },
+          {
+            "position": {
+              "x": 552,
+              "y": 1215
+            },
+            "size": {
+              "width": 90,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "P3 PDS"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "ffa0a716-e76e-45e1-a6e4-9e4db909007f",
+            "data": {
+              "type": "tm.Process",
+              "name": "P3 PDS",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            },
+            "zIndex": 52
+          },
+          {
+            "position": {
+              "x": 813.2499999999995,
+              "y": 1166.9999999999986
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "E4 PDS User"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "f47c119d-f3bf-4576-890f-fb4a16ed309e",
+            "data": {
+              "type": "tm.Actor",
+              "name": "E4 PDS User",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            },
+            "zIndex": 53
+          }
+        ]
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Shaimaa Bajoudah",
+    "threatTop": 15
+  }
+}
